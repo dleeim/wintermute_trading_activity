@@ -5,28 +5,27 @@ Arctic Bastion (1inch Resolver)
 Bebop
 Camelot
 CoW Protocol
+Coinbase
 Curve.fi
-Ethena
 Fluid (Instadapp)
+Jito
 Kyber Network
 LiFi
 Lifinity
 Meteora (Prev. Mercurial)
+Odos
 Orca
 PancakeSwap
 ParaSwap
+Paxos
 Phoenix
 Raydium
 Rizzolver (Wintermute)
 ShibaSwap
 Sky (MakerDAO)
 SushiSwap
-Jito
-Odos
 The T Resolver (1inch Resolver)
 Uniswap
 Unizen
 Velodrome Finance
-Zerion
-MetaMask
-Rainbow.me
+rsync-builder
