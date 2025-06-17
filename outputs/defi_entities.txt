@@ -5,7 +5,6 @@ Arctic Bastion (1inch Resolver)
 Bebop
 Camelot
 CoW Protocol
-Coinbase
 Curve.fi
 Fluid (Instadapp)
 Jito
